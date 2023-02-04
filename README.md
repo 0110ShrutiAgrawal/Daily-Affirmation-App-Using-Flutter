@@ -1,16 +1,16 @@
-# flutter_daily_affirmation
+Daily-affirmation-App-Using-Flutter
 
-A new Flutter project.
+In today's career-driven era, everyone is stressed by daily tasks, and a daily affirmation app can help one stay positive, so I have created an app using the Flutter framework based on the Dart language. This app is like a basic ToDo app where one can add positive thoughts on a daily basis, search for them via the search box, delete them, and read those thoughts for daily motivation.
 
-## Getting Started
+Screenshots:
+App overview:
+<img width="237" alt="Screenshot_20230204_231022" src="https://user-images.githubusercontent.com/105358418/216784020-2b10e915-5ff0-4d3e-a231-ab8e93ada111.png">
+Search affirmation:
+<img width="255" alt="Screenshot_20230204_231055" src="https://user-images.githubusercontent.com/105358418/216784022-c49720ad-b7fd-47d5-a01a-568486e7a18d.png">
+Add new affirmation:
+<img width="245" alt="Screenshot_20230204_231115" src="https://user-images.githubusercontent.com/105358418/216784026-eef5dddc-d050-4cda-8e3e-7ac194f7f99c.png">
+Visibility of new affirmation:
+<img width="250" alt="Screenshot_20230204_231129" src="https://user-images.githubusercontent.com/105358418/216784030-889c5fba-0e72-4cd9-b7a5-6c13d2b64315.png">
+Delete an affirmation:
+<img width="249" alt="Screenshot_20230204_231135" src="https://user-images.githubusercontent.com/105358418/216784034-a8a9bcf8-0794-493f-a073-95d63b8993fb.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
